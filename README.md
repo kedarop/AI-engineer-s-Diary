@@ -18,4 +18,4 @@ Here I upload my Jupyter Notebook files covering the **foundations, techniques, 
 ## 🚀 How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/AI-engineer-s-Diary.git
+   git clone https://github.com/kedarop/AI-engineer-s-Diary.git
